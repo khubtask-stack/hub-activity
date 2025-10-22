@@ -1,0 +1,132 @@
+[
+  {
+    "batch": "2022-2023",
+    "projects": [
+      {
+        "title": "SELSCA",
+        "description": "Engineered a user-facing data acquisition interface and a backend processing pipeline to transform raw user inputs into dynamic analytical visualizations, enabling enhanced data interpretation through interactive charts and graphs. (Four teams worked on this)",
+        "github": "https://github.com/"
+      },
+      {
+        "title": "ICR",
+        "description": "Engineered a secure authentication system integrated with a personalized student dashboard. Upon successful login, the system delivers tailored data visualizations and student-specific information within a secure, access-controlled environment.",
+        "github": ""
+      }
+    ]
+  },
+  {
+    "batch": "2023-2024",
+    "projects": [
+      {
+        "title": "Python Script for Cleaning and Merging PER/POST Datasets",
+        "description": "Engineered an automated data processing script in Python to clean, merge, and analyze pre- and post-test assessment data from Excel files. It standardizes text fields, manages missing values, and generates unique composite keys for accurate merging, exporting the final dataset as a clean CSV file. (Two teams worked on this)",
+        "github": ""
+      },
+      {
+        "title": "Interactive Program Dashboard for Year-Wise Data Visualization",
+        "description": "Engineered an interactive dashboard for longitudinal educational program data analysis with dynamic year-over-year filtering, geospatial maps, trend analysis, and real-time responsive charts for performance and participation tracking. (Two teams worked on this)",
+        "github": ""
+      },
+      {
+        "title": "Data Page Development",
+        "description": "Designed and implemented a data management portal with dataset upload and browsing functionality. Automated backend integration and statistical computation with an emphasis on mentorship-driven collaboration and code quality.",
+        "github": ""
+      },
+      {
+        "title": "Authentication & User Management System",
+        "description": "Developed a full-stack user authentication and management system using React.js and Node.js with robust RBAC features and an admin dashboard for user and submission management. (Two teams worked on this)",
+        "github": ""
+      },
+      {
+        "title": "Full-Stack Data Analytics Dashboard Development",
+        "description": "Architected a single-page analytics app with React frontend, Flask backend, and MongoDB integration, emphasizing structured git workflows, team roles, and adherence to Figma-based UI design.",
+        "github": ""
+      },
+      {
+        "title": "Data Upload and Viewing Page",
+        "description": "Built a data upload and viewing system with a Python backend supporting data computation and caching for optimization in future updates.",
+        "github": ""
+      }
+    ]
+  },
+  {
+    "batch": "2024-2025",
+    "projects": [
+      {
+        "title": "Data Dialect",
+        "description": "A multi-modal analytics platform processing text, audio, and video data using NLP and predictive modeling. Integrates an 'Andhra Map' module for regional forecasting using structured data warehousing. (Two teams worked on this)",
+        "github": ""
+      },
+      {
+        "title": "Learning Management System",
+        "description": "A comprehensive LMS built with Node.js, MongoDB, and React. Supports course management, authentication, quizzes, certificates, and real-time notifications with future goals for AI-driven personalization and gamification.",
+        "github": ""
+      },
+      {
+        "title": "Finance Hive",
+        "description": "A finance management system automating loan lifecycle processes with notifications, tracking, and structured data insights for transparency and accountability. (Two teams worked on this)",
+        "github": ""
+      },
+      {
+        "title": "HackTrack",
+        "description": "A hackathon management platform using React, FastAPI, and MongoDB featuring authentication, team formation, submissions, scheduling, and an integrated code compiler.",
+        "github": ""
+      },
+      {
+        "title": "DevOrbit",
+        "description": "A centralized academic project lifecycle management platform improving collaboration and accountability in project tracking and delegation. (Two teams worked on this)",
+        "github": ""
+      },
+      {
+        "title": "HackStad",
+        "description": "A hackathon management system using React, FastAPI, and MongoDB featuring OAuth login, event scheduling, code evaluation, and real-time updates.",
+        "github": ""
+      }
+    ]
+  },
+  {
+    "batch": "2025-2026",
+    "projects": [
+      {
+        "title": "Instaaid",
+        "description": "An emergency response app built with Python that uses a silent shake gesture to send GPS location via SMS, enabling fast, offline-capable distress alerts.",
+        "github": ""
+      },
+      {
+        "title": "MEDviz (Medical Emergency Detection & Visualization)",
+        "description": "An AI-driven health assistant that detects emergencies from user symptoms and connects patients to nearby healthcare facilities.",
+        "github": ""
+      },
+      {
+        "title": "ProxMeet (Smart Campus Networking & Peer Learning Platform)",
+        "description": "A peer learning platform connecting students and alumni for collaboration, mentorship, and networking across campuses.",
+        "github": ""
+      },
+      {
+        "title": "Local Hunt",
+        "description": "A platform connecting local shoppers with nearby stores to promote small businesses and improve product discovery in local areas.",
+        "github": ""
+      },
+      {
+        "title": "Dev Stack",
+        "description": "A unified coordination platform for semester-wise project and hackathon management. (Two members working on this)",
+        "github": ""
+      },
+      {
+        "title": "Map My Culture",
+        "description": "A platform allowing users to share and explore cultural data across regions using AI and NLP to extract and visualize heritage content on an interactive map.",
+        "github": ""
+      },
+      {
+        "title": "Mentor Link",
+        "description": "A platform connecting students, mentors, and event organizers to foster guidance, opportunities, and skill-building.",
+        "github": ""
+      },
+      {
+        "title": "Infoverse",
+        "description": "A comprehensive platform streamlining training and placement management with roles for students, coordinators, TPOs, and trainers.",
+        "github": ""
+      }
+    ]
+  }
+]
